@@ -1,0 +1,27 @@
+.contact {
+    font-style: normal;
+    text-align: right;
+}
+
+.contact__description {
+    color: #9A9A9A;
+    font-size: 11px;
+}
+
+.contact__tel  {
+    text-decoration: none;
+    font-size: 26px;
+}
+
+.contact__schedule {
+    font-size: 13px;
+    text-decoration: underline;
+    color: #98A4A8;
+    margin-right: 2px;
+    margin-top: -8px;
+}
+
+.contact__schedule:hover {
+    text-decoration: underline;
+    color: #fff;
+}

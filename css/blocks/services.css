@@ -1,0 +1,50 @@
+.page__content {
+    background: #F2F2F2;
+    color: #303030;
+    padding: 97px 0px 25px 0px;
+}
+
+.service {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+.service__img {
+    width: 42%;
+    margin-right: 3.4%;
+}
+
+.service_content {
+    flex: 1;
+}
+
+.service__item-title {
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 29px;
+    padding-top: 11px;
+}
+
+.service__desc {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 52px;
+}
+
+.service__btn {
+    background: #fff;
+    color: #f5170e;
+    border: 1px solid #F5170E;
+    border-radius: 35px;
+    padding: 18px 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.service__btn:hover {
+    background: #f5170e;
+    color: #fff;
+}
